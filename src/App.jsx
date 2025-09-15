@@ -48,7 +48,7 @@ function App() {
         <Button increment={1} onClickFunction={incrementCount} />
         <Button increment={10} onClickFunction={incrementCount} />
         <Button increment={100} onClickFunction={incrementCount} />
-        <Button increment={1000} onClickFunction={incrementCount />
+        <Button increment={1000} onClickFunction={incrementCount} />
         <br />
         <span>{count}</span>
       </section>
